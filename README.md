@@ -1,7 +1,7 @@
 # NEON BARRAGE·AI弹幕生成赛博生存战
 
 <div align="center">
-  <img src="https://github.com/mire403/Neon-Barrage/blob/main/picture/%E4%B8%BB%E9%A1%B5.png">
+  <img src="https://github.com/mire403/Neon-Barrage/blob/main/%E4%B8%BB%E9%A1%B5.png">
 </div>
 <div align="center">游戏主页</div>
 
